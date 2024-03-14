@@ -1,0 +1,5 @@
+add "serve": "nodemon app.js" to script at package.json of backend
+and then to start server install nodemon by npm i -g nodemon and then write "npm run serve" on terminal
+
+install express js as it will reduce the work of node js and we will have to write less lines of code
+to install express just type on terminal as: "npm i express"
